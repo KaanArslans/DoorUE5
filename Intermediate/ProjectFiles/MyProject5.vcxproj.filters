@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject5">
+      <UniqueIdentifier>{76E1545D-F5F4-3A7D-BE4E-8535030F0F93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject5\MyProject5.Build.cs">
+      <Filter>Source\MyProject5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject5\MyProject5.cpp">
+      <Filter>Source\MyProject5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5\MyProject5.h">
+      <Filter>Source\MyProject5</Filter>
+    </ClInclude>
+    <Filter Include="Source\MyProject5\Private">
+      <UniqueIdentifier>{2DAFF126-DBB1-3672-99C6-4DD67A00D300}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject5\Private\Bird.cpp">
+      <Filter>Source\MyProject5\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject5\Private\Door.cpp">
+      <Filter>Source\MyProject5\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MyProject5\Private\Item.cpp">
+      <Filter>Source\MyProject5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MyProject5\Public">
+      <UniqueIdentifier>{F80063FD-DA8A-3DBB-AC1A-2BA96308648C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MyProject5\Public\Bird.h">
+      <Filter>Source\MyProject5\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject5\Public\Door.h">
+      <Filter>Source\MyProject5\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MyProject5\Public\Item.h">
+      <Filter>Source\MyProject5\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

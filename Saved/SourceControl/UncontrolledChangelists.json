@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/BP_ITEM.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/17/UUT26YK769004JQIJUT1K9.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/IL/3MN47ZY7ZINO5SYZ06UUYZ.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Meshes/SM_Barrel01_SM_Barrel01/SM_Barrel01_GeometryCollection.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Meshes/SM_Barrel01_SM_Barrel01/SM_Barrel01_GeometryCollection3.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/8E/R5WVAMIAZ937LN88UE1I3M.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Materials/M_HouseWallBase.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Materials/MI_WoodDetails.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Meshes/SM_Barrel01_SM_Barrel01/SM_Barrel01_GeometryCollection1.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Meshes/SM_Barrel01_SM_Barrel01/SM_Barrel01_GeometryCollection2.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/FantasyBundle/Meshes/SM_Barrel02_SM_Barrel02/SM_Barrel02_GeometryCollection.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/BP_bird.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/deneme.umap",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9N/XC2LEQTDF7RZJ6ABM12H9Q.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/BP_DOOR.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5U/RNS6SY2OCV8BE8GAWLJXE7.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/DoorCurve.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/XL/FLXTZ8IGIC9OC8DOCWQLXF.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/25/RXDQT0C46OOFLYMNTP0FEV.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8M/6TJZMCUPW45KXWXG10RG5T.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JG/90DJDB59NGG1QZRKXP24WC.uasset",
+				"C:/Users/Kenik/OneDrive/Belgeler/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/F5/UEUMJHOQF4DYL4AIB5SN1K.uasset"
+			]
+		}
+	]
+}
